@@ -1,0 +1,18 @@
+@import "var";
+
+.navigation {
+  position: relative;
+
+  .mat-list-item {
+    position: relative;
+    cursor: pointer;
+  }
+}
+
+.navigation {
+  padding: $spacing;
+}
+
+.content {
+  padding: $spacing;
+}
